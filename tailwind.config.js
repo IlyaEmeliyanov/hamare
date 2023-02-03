@@ -11,7 +11,8 @@ module.exports = {
     },
     colors: {
       "fontPrimary": "#fff",
-      "fontSecondary": "#8D95A1"
+      "fontSecondary": "#8D95A1",
+      "active": "#EFBB36"
     }
   },
   plugins: [],

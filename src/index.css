@@ -18,7 +18,7 @@ body {
 }
 
 section {
-  padding: 4rem 3rem;
+  padding: 3rem 2rem;
 }
 
 input:focus {
@@ -38,4 +38,8 @@ button {
 
 .gradient:hover {
   background: linear-gradient(90deg, #e8b32b 0%, #e3740d 100.9%);
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
